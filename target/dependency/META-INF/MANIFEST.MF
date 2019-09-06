@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Implementation-Title: hello-docker
+Implementation-Version: 0.0.1-SNAPSHOT
+Archiver-Version: Plexus Archiver
+Built-By: Administrator
+Implementation-Vendor-Id: com.example.howtodoinjava
+Spring-Boot-Version: 1.5.6.RELEASE
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: org.springframework.boot.loader.JarLauncher
+Start-Class: com.example.howtodoinjava.hellodocker.HelloDockerApplicat
+ ion
+Spring-Boot-Classes: BOOT-INF/classes/
+Spring-Boot-Lib: BOOT-INF/lib/
+Created-By: Apache Maven 3.5.4
+Build-Jdk: 1.8.0_181
+Implementation-URL: http://projects.spring.io/spring-boot/hello-docker
+ /
+
